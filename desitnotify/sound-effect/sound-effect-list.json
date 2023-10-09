@@ -38,17 +38,17 @@
     },
     {
       "name": "あおい",
-      "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/ja/あおい.mp3",
+      "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/ja/aoi.mp3",
       "lang": "ja"
     },
     {
       "name": "だいち",
-      "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/ja/だいち.mp3",
+      "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/ja/daiti.mp3",
       "lang": "ja"
     },
     {
       "name": "けいた",
-      "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/ja/けいた.mp3",
+      "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/ja/keita.mp3",
       "lang": "ja"
     },
     {
@@ -58,52 +58,52 @@
     },
     {
       "name": "ななみ",
-      "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/ja/ななみ.mp3",
+      "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/ja/nanami.mp3",
       "lang": "ja"
     },
     {
       "name": "晓晓",
-      "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/zh/晓晓.mp3",
+      "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/zh/xiaoxiao.mp3",
       "lang": "zh"
     },
     {
       "name": "晓涵",
-      "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/zh/晓涵.mp3",
+      "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/zh/xiaohan.mp3",
       "lang": "zh"
     },
     {
       "name": "晓双",
-      "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/zh/晓双.mp3",
+      "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/zh/xiaoshuang.mp3",
       "lang": "zh"
     },
     {
       "name": "云阳",
-      "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/zh/云阳.mp3",
+      "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/zh/yunyang.mp3",
       "lang": "zh"
     },
     {
       "name": "云翔 (山东方言)",
-      "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/zh/云翔 (山东方言).mp3",
+      "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/zh/yunxiang.mp3",
       "lang": "zh"
     },
     {
       "name": "晓北 (辽宁方言)",
-      "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/zh/晓北 (辽宁方言).mp3",
+      "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/zh/xiaobei.mp3",
       "lang": "zh"
     },
     {
       "name": "晓妮 (陕西方言)",
-      "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/zh/晓妮 (陕西方言).mp3",
+      "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/zh/xiaoni.mp3",
       "lang": "zh"
     },
     {
       "name": "云登 (河南方言)",
-      "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/zh/云登 (河南方言).mp3",
+      "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/zh/yundeng.mp3",
       "lang": "zh"
     },
     {
       "name": "云希 (四川方言)",
-      "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/zh/云希 (四川方言).mp3",
+      "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/zh/yunxi.mp3",
       "lang": "zh"
     }
   ]
