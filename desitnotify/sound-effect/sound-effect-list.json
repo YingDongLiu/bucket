@@ -174,7 +174,7 @@
             "type": "beep",
             "name": "Train melody",
             "fileName": "train_melody.mp3",
-            "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/keep/train_melody.mp3",
+            "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/beep/train_melody.mp3",
             "lang": "nil"
         },
     ]
