@@ -3,129 +3,179 @@
     "data": [
         {
             "id": 1,
+            "type": "people",
             "name": "AIGenerate",
+            "fileName": "AIGenerate.mp3",
             "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/en/AIGenerate.mp3",
             "lang": "en"
         },
         {
             "id": 2,
+            "type": "people",
             "name": "Aria",
+            "fileName": "Aria.mp3",
             "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/en/Aria.mp3",
             "lang": "en"
         },
         {
             "id": 3,
+            "type": "people",
             "name": "Blue",
+            "fileName": "Blue.mp3",
             "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/en/Blue.mp3",
             "lang": "en"
         },
         {
             "id": 4,
+            "type": "people",
             "name": "Jenny",
+            "fileName": "Jenny.mp3",
             "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/en/Jenny.mp3",
             "lang": "en"
         },
         {
             "id": 5,
+            "type": "people",
             "name": "Justin",
+            "fileName": "Justin.mp3",
             "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/en/Justin.mp3",
             "lang": "en"
         },
         {
             "id": 6,
+            "type": "people",
             "name": "Matthew",
+            "fileName": "Matthew.mp3",
             "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/en/Matthew.mp3",
             "lang": "en"
         },
         {
             "id": 7,
+            "type": "people",
             "name": "Ryan",
+            "fileName": "Ryan.mp3",
             "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/en/Ryan.mp3",
             "lang": "en"
         },
         {
             "id": 8,
+            "type": "people",
             "name": "あおい",
+            "fileName": "aoi.mp3",
             "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/ja/aoi.mp3",
             "lang": "ja"
         },
         {
             "id": 9,
+            "type": "people",
             "name": "だいち",
+            "fileName": "daiti.mp3",
             "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/ja/daiti.mp3",
             "lang": "ja"
         },
         {
             "id": 10,
+            "type": "people",
             "name": "けいた",
+            "fileName": "keita.mp3",
             "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/ja/keita.mp3",
             "lang": "ja"
         },
         {
             "id": 11,
+            "type": "people",
             "name": "まゆ",
+            "fileName": "mayu.mp3",
             "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/ja/mayu.mp3",
             "lang": "ja"
         },
         {
             "id": 12,
+            "type": "people",
             "name": "ななみ",
+            "fileName": "nanami.mp3",
             "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/ja/nanami.mp3",
             "lang": "ja"
         },
         {
             "id": 13,
+            "type": "people",
             "name": "晓晓",
+            "fileName": "xiaoxiao.mp3",
             "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/zh/xiaoxiao.mp3",
             "lang": "zh"
         },
         {
             "id": 14,
+            "type": "people",
             "name": "晓涵",
+            "fileName": "xiaohan.mp3",
             "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/zh/xiaohan.mp3",
             "lang": "zh"
         },
         {
             "id": 15,
+            "type": "people",
             "name": "晓双",
+            "fileName": "xiaoshuang.mp3",
             "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/zh/xiaoshuang.mp3",
             "lang": "zh"
         },
         {
             "id": 16,
+            "type": "people",
             "name": "云阳",
+            "fileName": "yunyang.mp3",
             "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/zh/yunyang.mp3",
             "lang": "zh"
         },
         {
             "id": 17,
+            "type": "people",
             "name": "云翔 (山东方言)",
+            "fileName": "yunxiang.mp3",
             "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/zh/yunxiang.mp3",
             "lang": "zh"
         },
         {
             "id": 18,
+            "type": "people",
             "name": "晓北 (辽宁方言)",
+            "fileName": "xiaobei.mp3",
             "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/zh/xiaobei.mp3",
             "lang": "zh"
         },
         {
             "id": 19,
+            "type": "people",
             "name": "晓妮 (陕西方言)",
+            "fileName": "xiaoni.mp3",
             "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/zh/xiaoni.mp3",
             "lang": "zh"
         },
         {
             "id": 20,
+            "type": "people",
             "name": "云登 (河南方言)",
+            "fileName": "yundeng.mp3",
             "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/zh/yundeng.mp3",
             "lang": "zh"
         },
         {
             "id": 21,
+            "type": "people",
             "name": "云希 (四川方言)",
+            "fileName": "yunxi.mp3",
             "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/zh/yunxi.mp3",
             "lang": "zh"
-        }
+        },
+        {
+            "id": 22,
+            "type": "beep",
+            "name": "Train melody",
+            "fileName": "train_melody.mp3",
+            "url": "https://github.com/YingDongLiu/bucket/raw/main/desitnotify/sound-effect/keep/train_melody.mp3",
+            "lang": "nil"
+        },
     ]
 }
